@@ -1,19 +1,10 @@
 <script>
-    var show_outline = false;
+    var show_outline = true;
     var charHW = 70;
     var strokeWidth = 10;
 
     var url_hanzi = "https://cdn.jsdelivr.net/npm/hanzi-writer-data-jp@latest/";
     //var url_hanzi = "http://127.0.0.1:8080/data/";
-</script>
-
-<div class="stroke-color"></div>
-<div class="outline-color"></div>
-<div class="drawing-color"></div>
-<script>
-    var stroke_color = getComputedStyle(document.querySelector(".stroke-color")).color;
-    var outline_color = getComputedStyle(document.querySelector(".outline-color")).color;
-    var drawing_color = getComputedStyle(document.querySelector(".drawing-color")).color;
 </script>
 
 <div id='ch_kanji' class="text-color4 ">{{Kanji}}</div>

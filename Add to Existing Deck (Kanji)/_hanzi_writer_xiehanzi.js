@@ -60,6 +60,7 @@ async function writeFunction(c) {
     return new Promise(function (resolve, reject) {
         var writer = HanziWriter.create('grid-background-target', c, {
             onLoadCharDataSuccess: function (data) {
+                console.log(show_outline);
                 document.getElementById("ch_load_status").style.color = "#4caf50";
             },
             onLoadCharDataError: function (reason) {
@@ -71,9 +72,6 @@ async function writeFunction(c) {
             showOutline: show_outline,
             highlightOnComplete: true,
             drawingWidth: strokeWidth,
-            strokeColor: stroke_color,
-            outlineColor: outline_color,
-            drawingColor: drawing_color,
             padding: 5
         });
 
