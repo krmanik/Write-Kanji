@@ -2,7 +2,7 @@
  Learn, read, write and practice Kanji by drawing strokes with Onyomi, Kunyomi and Meaning in English.
 
 # Demo
-![demo](write-kanji-demo)
+![demo](write-kanji-demo.gif)
 
 # Quick Start
 **Download from AnkiWeb**
