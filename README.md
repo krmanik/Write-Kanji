@@ -2,7 +2,7 @@
  Learn, read, write and practice Kanji by drawing strokes with Onyomi, Kunyomi and Meaning in English.
 
 # Demo
-<img src="/Images/write-kanji-demo.gif" height="560" width="230"></img>
+<img src="/Images/write-kanji-demo.gif" height="560" width="263"></img>
 
 # Quick Start
 **Download from AnkiWeb**
@@ -40,6 +40,9 @@ Note: Some changes will get reflect from next card.
 
 **Can I add my own words?**
 <br>Yes, See [Anki Manual](https://docs.ankiweb.net/#/editing?id=addingediting).
+
+# View xiehanzi Wiki
+[Wiki](https://github.com/infinyte7/Anki-xiehanzi/wiki) 
 
 # Bug, feature request or have any questions?
 https://github.com/infinyte7/Write-Kanji/issues
