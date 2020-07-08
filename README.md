@@ -6,11 +6,19 @@
 
 # Quick Start
 **Download from AnkiWeb**
-<br>[Write Kanji](https://ankiweb.net/decks/share/1594204920929)
+<br>[Write Kanji](https://ankiweb.net/shared/info/1546710114)
 
 **Download from GitHub**
 <br>Download lated deck from release page
 <br>[Release](/releases)
+
+# Features
+- Night mode
+- Change size of characters
+- Change drawing stroke width
+- Indicator at bottom for showing if character loaded or not (green - loaded, red - not loaded or some error)
+
+Note: Some changes will get reflect from next card.
 
  # Data
  Character's stroke data
@@ -31,6 +39,9 @@
 
 **Can I add my own words?**
 <br>Yes, See [Anki Manual](https://docs.ankiweb.net/#/editing?id=addingediting).
+
+# Bug, feature request or have any questions?
+https://github.com/infinyte7/Write-Kanji/issues
 
 # License
 **Write Kanji**
