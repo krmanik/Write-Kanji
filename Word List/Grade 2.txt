@@ -1,0 +1,160 @@
+引	いん	ひ.く, ひ.き, ひ.き-, -び.き, ひ.ける	Pull, Tug, Jerk, Admit, Install, Quote, Refer To
+羽	う	は, わ, はね	Feathers, Counter For Birds, Rabbits
+雲	うん	くも, -ぐも	Cloud
+園	えん	その	Park, Garden, Yard, Farm
+遠	えん, おん	とお.い	Distant, Far
+何	か	なに, なん, なに-, なん-	What
+科	か		Department, Course, Section
+夏	か, が, げ	なつ	Summer
+家	か, け	いえ, や, うち	House, Home, Family, Professional, Expert, Performer
+歌	か	うた, うた.う	Song, Sing
+画	が, かく, え, かい	えが.く, かく.する, かぎ.る, はかりごと, はか.る	Brush-stroke, Picture
+回	かい, え	まわ.る, -まわ.る, -まわ.り, まわ.す, -まわ.す, まわ.し-, -まわ.し, もとお.る, か.える	-times, Round, Game, Revolve, Counter For Occurrences
+会	かい, え	あ.う, あ.わせる, あつ.まる	Meeting, Meet, Party, Association, Interview, Join
+海	かい	うみ	Sea, Ocean
+絵	かい, え		Picture, Drawing, Painting, Sketch
+外	がい, げ	そと, ほか, はず.す, はず.れる, と-	Outside
+角	かく	かど, つの	Angle, Corner, Square, Horn, Antlers
+楽	がく, らく, ごう	たの.しい, たの.しむ, この.む	Music, Comfort, Ease
+活	かつ	い.きる, い.かす, い.ける	Lively, Resuscitation, Being Helped, Living
+間	かん, けん	あいだ, ま, あい	Interval, Space
+丸	がん	まる, まる.める, まる.い	Round, Full (month), Perfection, -ship, Pills, Make Round, Roll Up, Curl Up, Seduce, Explain Away
+岩	がん	いわ	Boulder, Rock, Cliff
+顔	がん	かお	Face, Expression
+汽	き		Vapor, Steam
+記	き	しる.す	Scribe, Account, Narrative
+帰	き	かえ.る, かえ.す, おく.る, とつ.ぐ	Homecoming, Arrive At, Lead To, Result In
+弓	きゅう	ゆみ	Bow, Bow (archery, Violin)
+牛	ぎゅう	うし	Cow
+魚	ぎょ	うお, さかな, -ざかな	Fish
+京	きょう, けい, きん	みやこ	Capital, 10**16
+強	きょう, ごう	つよ.い, つよ.まる, つよ.める, し.いる, こわ.い	Strong
+教	きょう	おし.える, おそ.わる	Teach, Faith, Doctrine
+近	きん, こん	ちか.い	Near, Early, Akin, Tantamount
+兄	けい, きょう	あに	Elder Brother, Big Brother
+形	けい, ぎょう	かた, -がた, かたち, なり	Shape, Form, Style
+計	けい	はか.る, はか.らう	Plot, Plan, Scheme, Measure
+元	げん, がん	もと	Beginning, Former Time, Origin
+言	げん, ごん	い.う, こと	Say, Word
+原	げん	はら	Meadow, Original, Primitive, Field, Plain, Prairie, Tundra, Wilderness
+戸	こ	と	Door, Counter For Houses, Door Radical (no. 63)
+古	こ	ふる.い, ふる-, -ふる.す	Old
+午	ご	うま	Noon, Sign Of The Horse, 11am-1pm, Seventh Sign Of Chinese Zodiac
+後	ご, こう	のち, うし.ろ, うしろ, あと, おく.れる	Behind, Back, Later
+語	ご	かた.る, かた.らう	Word, Speech, Language
+工	こう, く, ぐ		Craft, Construction, Katakana E Radical (no. 48)
+公	こう, く	おおやけ	Public, Prince, Official, Governmental
+広	こう	ひろ.い, ひろ.まる, ひろ.める, ひろ.がる, ひろ.げる	Wide, Broad, Spacious
+交	こう	まじ.わる, まじ.える, ま.じる, まじ.る, ま.ざる, ま.ぜる, -か.う, か.わす, かわ.す, こもごも	Mingle, Mixing, Association, Coming & Going
+光	こう	ひか.る, ひかり	Ray, Light
+考	こう	かんが.える, かんが.え	Consider, Think Over
+行	こう, ぎょう, あん	い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう	Going, Journey, Carry Out, Conduct, Act, Line, Row, Bank
+高	こう	たか.い, たか, -だか, たか.まる, たか.める	Tall, High, Expensive
+黄	こう, おう	き, こ-	Yellow
+合	ごう, がっ, かっ	あ.う, -あ.う, あ.い, あい-, -あ.い, -あい, あ.わす, あ.わせる, -あ.わせる	Fit, Suit, Join, 0.1
+谷	こく	たに, きわ.まる	Valley
+国	こく	くに	Country
+黒	こく	くろ, くろ.ずむ, くろ.い	Black
+今	こん, きん	いま	Now
+才	さい		Genius, Years Old, Cubic Shaku
+細	さい	ほそ.い, ほそ.る, こま.か, こま.かい	Dainty, Get Thin, Taper, Slender, Narrow, Detailed, Precise
+作	さく, さ	つく.る, つく.り, -づく.り	Make, Production, Prepare, Build
+算	さん	そろ	Calculate, Divining, Number, Abacus, Probability
+止	し	と.まる, -ど.まり, と.める, -と.める, -ど.め, とど.める, とど.め, とど.まる, や.める, や.む, -や.む, よ.す, -さ.す, -さ.し	Stop, Halt
+市	し	いち	Market, City, Town
+矢	し	や	Dart, Arrow
+姉	し	あね, はは	Elder Sister
+思	し	おも.う, おもえら.く, おぼ.す	Think
+紙	し	かみ	Paper
+寺	じ	てら	Buddhist Temple
+自	じ, し	みずか.ら, おの.ずから, おの.ずと	Oneself
+時	じ	とき, -どき	Time, Hour
+室	しつ	むろ	Room, Apartment, Chamber, Greenhouse, Cellar
+社	しゃ	やしろ	Company, Firm, Office, Association, Shrine
+弱	じゃく	よわ.い, よわ.る, よわ.まる, よわ.める	Weak, Frail
+首	しゅ	くび	Neck, Counter For Songs And Poems
+秋	しゅう	あき, とき	Autumn
+週	しゅう		Week
+春	しゅん	はる	Springtime, Spring (season)
+書	しょ	か.く, -が.き, -がき	Write
+少	しょう	すく.ない, すこ.し	Few, Little
+場	じょう, ちょう	ば	Location, Place
+色	しょく, しき	いろ	Color
+食	しょく, じき	く.う, く.らう, た.べる, は.む	Eat, Food
+心	しん	こころ, -ごころ	Heart, Mind, Spirit, Heart Radical (no. 61)
+新	しん	あたら.しい, あら.た, あら-, にい-	New
+親	しん	おや, おや-, した.しい, した.しむ	Parent, Intimacy, Relative, Familiarity, Dealer (cards)
+図	ず, と	え, はか.る	Map, Drawing, Plan, Extraordinary, Audacious
+数	すう, す, さく, そく, しゅ	かず, かぞ.える, しばしば, せ.める, わずらわ.しい	Number, Strength, Fate, Law, Figures
+西	せい, さい, す	にし	West, Spain
+声	せい, しょう	こえ, こわ-	Voice
+星	せい, しょう	ほし, -ぼし	Star, Spot, Dot, Mark
+晴	せい	は.れる, は.れ, は.れ-, -ば.れ, は.らす	Clear Up
+切	せつ, さい	き.る, -き.る, き.り, -き.り, -ぎ.り, き.れる, -き.れる, き.れ, -き.れ, -ぎ.れ	Cut, Cutoff, Be Sharp
+雪	せつ	ゆき	Snow
+船	せん	ふね, ふな-	Ship, Boat
+線	せん	すじ	Line, Track
+前	ぜん	まえ, -まえ	In Front, Before
+組	そ	く.む, くみ, -ぐみ	Association, Braid, Plait, Construct, Assemble, Unite, Cooperate, Grapple
+走	そう	はし.る	Run
+多	た	おお.い, まさ.に, まさ.る	Many, Frequent, Much
+太	たい, た	ふと.い, ふと.る	Plump, Thick, Big Around
+体	たい, てい	からだ, かたち	Body, Substance, Object, Reality, Counter For Images
+台	だい, たい	うてな, われ, つかさ	Pedestal, A Stand, Counter For Machines And Vehicles
+地	ち, じ		Ground, Earth
+池	ち	いけ	Pond, Cistern, Pool, Reservoir
+知	ち	し.る, し.らせる	Know, Wisdom
+茶	ちゃ, さ		Tea
+昼	ちゅう	ひる	Daytime, Noon
+長	ちょう	なが.い, おさ	Long, Leader, Superior, Senior
+鳥	ちょう	とり	Bird, Chicken
+朝	ちょう	あさ	Morning, Dynasty, Regime, Epoch, Period, (north) Korea
+直	ちょく, じき, じか	ただ.ちに, なお.す, -なお.す, なお.る, なお.き, す.ぐ	Straightaway, Honesty, Frankness, Fix, Repair
+通	つう, つ	とお.る, とお.り, -とお.り, -どお.り, とお.す, とお.し, -どお.し, かよ.う	Traffic, Pass Through, Avenue, Commute, Counter For Letters, Notes, Documents, Etc.
+弟	てい, だい, で	おとうと	Younger Brother, Faithful Service To Elders
+店	てん	みせ, たな	Store, Shop
+点	てん	つ.ける, つ.く, た.てる, さ.す, とぼ.す, とも.す, ぼち	Spot, Point, Mark, Speck, Decimal Point
+電	でん		Electricity
+刀	とう	かたな, そり	Sword, Saber, Knife
+冬	とう	ふゆ	Winter
+当	とう	あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし	Hit, Right, Appropriate, Himself
+東	とう	ひがし	East
+答	とう	こた.える, こた.え	Solution, Answer
+頭	とう, ず, と	あたま, かしら, -がしら, かぶり	Head, Counter For Large Animals
+同	どう	おな.じ	Same, Agree, Equal
+道	どう, とう	みち, いう	Road-way, Street, District, Journey, Course, Moral, Teachings
+読	どく, とく, とう	よ.む, -よ.み	Read
+内	ない, だい	うち	Inside, Within, Between, Among, House, Home
+南	なん, な	みなみ	South
+肉	にく	しし	Meat
+馬	ば	うま, うま-, ま	Horse
+売	ばい	う.る, う.れる	Sell
+買	ばい	か.う	Buy
+麦	ばく	むぎ	Barley, Wheat
+半	はん	なか.ば	Half, Middle, Odd Number, Semi-, Part-
+番	ばん	つが.い	Turn, Number In A Series
+父	ふ	ちち	Father
+風	ふう, ふ	かぜ, かざ-, -かぜ	Wind, Air, Style, Manner
+分	ぶん, ふん, ぶ	わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ	Part, Minute Of Time, Segment, Share, Degree, One's Lot, Duty, Understand, Know, Rate, 1%, Chances, Shaku/100
+聞	ぶん, もん	き.く, き.こえる	Hear, Ask, Listen
+米	べい, まい, めえとる	こめ, よね	Rice, Usa, Metre
+歩	ほ, ぶ, ふ	ある.く, あゆ.む	Walk, Counter For Steps
+母	ぼ	はは, も	Mother
+方	ほう	かた, -かた, -がた	Direction, Person, Alternative
+北	ほく	きた	North
+毎	まい	ごと, -ごと.に	Every
+妹	まい	いもうと	Younger Sister
+万	まん, ばん	よろず	Ten Thousand, 10,000
+明	めい, みょう, みん	あ.かり, あか.るい, あか.るむ, あか.らむ, あき.らか, あ.ける, -あ.け, あ.く, あ.くる, あ.かす	Bright, Light
+鳴	めい	な.く, な.る, な.らす	Chirp, Cry, Bark, Sound, Ring, Echo, Honk
+毛	もう	け	Fur, Hair, Feather, Down
+門	もん	かど, と	Gate, Counter For Cannons
+夜	や	よ, よる	Night, Evening
+野	や, しょ	の, の-	Plains, Field, Rustic, Civilian Life
+友	ゆう	とも	Friend
+用	よう	もち.いる	Utilize, Business, Service, Use, Employ
+曜	よう		Weekday
+来	らい, たい	く.る, きた.る, きた.す, き.たす, き.たる, き, こ	Come, Due, Next, Cause, Become
+里	り	さと	Ri, Village, Parent's Home, League
+理	り	ことわり	Logic, Arrangement, Reason, Justice, Truth
+話	わ	はな.す, はなし	Tale, Talk

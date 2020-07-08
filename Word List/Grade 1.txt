@@ -1,0 +1,80 @@
+一	いち, いつ	ひと-, ひと.つ	One, One Radical (no.1)
+右	う, ゆう	みぎ	Right
+雨	う	あめ, あま-, -さめ	Rain
+円	えん	まる.い, まる, まど, まど.か, まろ.やか	Circle, Yen, Round
+王	おう, -のう		King, Rule, Magnate
+音	おん, いん, -のん	おと, ね	Sound, Noise
+下	か, げ	した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる	Below, Down, Descend, Give, Low, Inferior
+火	か	ひ, -び, ほ-	Fire
+花	か, け	はな	Flower
+貝	ばい	かい	Shellfish
+学	がく	まな.ぶ	Study, Learning, Science
+気	き, け	いき	Spirit, Mind, Air, Atmosphere, Mood
+九	きゅう, く	ここの, ここの.つ	Nine
+休	きゅう	やす.む, やす.まる, やす.める	Rest, Day Off, Retire, Sleep
+玉	ぎょく	たま, たま-, -だま	Jewel, Ball
+金	きん, こん, ごん	かね, かな-, -がね	Gold
+空	くう	そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい	Empty, Sky, Void, Vacant, Vacuum
+月	げつ, がつ	つき	Month, Moon
+犬	けん	いぬ, いぬ-	Dog
+見	けん	み.る, み.える, み.せる	See, Hopes, Chances, Idea, Opinion, Look At, Visible
+五	ご	いつ, いつ.つ	Five
+口	こう, く	くち	Mouth
+校	こう, きょう		Exam, School, Printing, Proof, Correction
+左	さ, しゃ	ひだり	Left
+三	さん, ぞう	み, み.つ, みっ.つ	Three
+山	さん, せん	やま	Mountain
+子	し, す, つ	こ, -こ, ね	Child, Sign Of The Rat, 11pm-1am, First Sign Of Chinese Zodiac
+四	し	よ, よ.つ, よっ.つ, よん	Four
+糸	し	いと	Thread
+字	じ	あざ, あざな, -な	Character, Letter, Word, Section Of Village
+耳	じ	みみ	Ear
+七	しち	なな, なな.つ, なの	Seven
+車	しゃ	くるま	Car
+手	しゅ, ず	て, て-, -て, た-	Hand
+十	じゅう, じっ, じゅっ	とお, と	Ten
+出	しゅつ, すい	で.る, -で, だ.す, -だ.す, い.でる, い.だす	Exit, Leave, Go Out, Come Out, Put Out, Protrude
+女	じょ, にょ, にょう	おんな, め	Woman, Female
+小	しょう	ちい.さい, こ-, お-, さ-	Little, Small
+上	じょう, しょう, しゃん	うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る	Above, Up
+森	しん	もり	Forest, Woods
+人	じん, にん	ひと, -り, -と	Person
+水	すい	みず, みず-	Water
+正	せい, しょう	ただ.しい, ただ.す, まさ, まさ.に	Correct, Justice, Righteous, 10**40
+生	せい, しょう	い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う	Life, Genuine, Birth
+青	せい, しょう	あお, あお-, あお.い	Blue, Green
+夕	せき	ゆう	Evening
+石	せき, しゃく, こく	いし	Stone
+赤	せき, しゃく	あか, あか-, あか.い, あか.らむ, あか.らめる	Red
+千	せん	ち	Thousand
+川	せん	かわ	Stream, River, River Or Three-stroke River Radical (no. 47)
+先	せん	さき, ま.ず	Before, Ahead, Previous, Future, Precedence
+早	そう, さっ	はや.い, はや, はや-, はや.まる, はや.める, さ-	Early, Fast
+草	そう	くさ, くさ-, -ぐさ	Grass, Weeds, Herbs, Pasture, Write, Draft
+足	そく	あし, た.りる, た.る, た.す	Leg, Foot, Be Sufficient, Counter For Pairs Of Footwear
+村	そん	むら	Village, Town
+大	だい, たい	おお-, おお.きい, -おお.いに	Large, Big
+男	だん, なん	おとこ, お	Male
+竹	ちく	たけ	Bamboo
+中	ちゅう	なか, うち, あた.る	In, Inside, Middle, Mean, Center
+虫	ちゅう, き	むし	Insect, Bug, Temper
+町	ちょう	まち	Town, Village, Block, Street
+天	てん	あまつ, あめ, あま-	Heavens, Sky, Imperial
+田	でん	た	Rice Field, Rice Paddy
+土	ど, と	つち	Soil, Earth, Ground, Turkey
+二	に, じ	ふた, ふた.つ, ふたたび	Two, Two Radical (no. 7)
+日	にち, じつ	ひ, -び, -か	Day, Sun, Japan, Counter For Days
+入	にゅう, じゅ	い.る, -い.る, -い.り, い.れる, -い.れ, はい.る	Enter, Insert
+年	ねん	とし	Year, Counter For Years
+白	はく, びゃく	しろ, しら-, しろ.い	White
+八	はち	や, や.つ, やっ.つ, よう	Eight, Eight Radical (no. 12)
+百	ひゃく, びゃく	もも	Hundred
+文	ぶん, もん	ふみ, あや	Sentence, Literature, Style, Art, Decoration, Figures, Plan, Literary Radical (no. 67)
+木	ぼく, もく	き, こ-	Tree, Wood
+本	ほん	もと	Book, Present, Main, Origin, True, Real, Counter For Long Cylindrical Things
+名	めい, みょう	な, -な	Name, Noted, Distinguished, Reputation
+目	もく, ぼく	め, -め, ま-	Eye, Class, Look, Insight, Experience, Care, Favor
+立	りつ, りゅう, りっとる	た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる	Stand Up, Rise, Set Up, Erect
+力	りょく, りき, りい	ちから	Power, Strength, Strong, Strain, Bear Up, Exert
+林	りん	はやし	Grove, Forest
+六	ろく, りく	む, む.つ, むっ.つ, むい	Six

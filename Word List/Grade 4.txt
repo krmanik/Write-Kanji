@@ -1,0 +1,200 @@
+愛	あい	いと.しい, かな.しい, め.でる, お.しむ, まな	Love, Affection, Favourite
+案	あん	つくえ	Plan, Suggestion, Draft, Ponder, Fear, Proposition, Idea, Expectation, Worry, Table, Bench
+以	い	もっ.て	By Means Of, Because, In View Of, Compared With
+衣	い, え	ころも, きぬ, -ぎ	Garment, Clothes, Dressing
+位	い	くらい, ぐらい	Rank, Grade, Throne, Crown, About, Some
+囲	い	かこ.む, かこ.う, かこ.い	Surround, Besiege, Store, Paling, Enclosure, Encircle, Preserve, Keep
+胃	い		Stomach, Paunch, Crop, Craw
+印	いん	しるし, -じるし, しる.す	Stamp, Seal, Mark, Imprint, Symbol, Emblem, Trademark, Evidence, Souvenir, India
+英	えい	はなぶさ	England, English, Hero, Outstanding, Calyx
+栄	えい, よう	さか.える, は.え, -ば.え, は.える, え	Flourish, Prosperity, Honor, Glory, Splendor
+塩	えん	しお	Salt
+億	おく		Hundred Million, 10**8
+加	か	くわ.える, くわ.わる	Add, Addition, Increase, Join, Include, Canada
+果	か	は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て	Fruit, Reward, Carry Out, Achieve, Complete, End, Finish, Succeed
+貨	か	たから	Freight, Goods, Property
+課	か		Chapter, Lesson, Section, Department, Division, Counter For Chapters (of A Book)
+芽	が	め	Bud, Sprout, Spear, Germ
+改	かい	あらた.める, あらた.まる	Reformation, Change, Modify, Mend, Renew, Examine, Inspect, Search
+械	かい	かせ	Contraption, Fetter, Machine, Instrument
+害	がい		Harm, Injury
+街	がい, かい	まち	Boulevard, Street, Town
+各	かく	おのおの	Each, Every, Either
+覚	かく	おぼ.える, さ.ます, さ.める, さと.る	Memorize, Learn, Remember, Awake, Sober Up
+完	かん		Perfect, Completion, End
+官	かん		Bureaucrat, The Government, Organ
+管	かん	くだ	Pipe, Tube, Wind Instrument, Drunken Talk, Control, Jurisdiction
+関	かん	せき, -ぜき, かか.わる, からくり, かんぬき	Connection, Barrier, Gateway, Involve, Concerning
+観	かん	み.る, しめ.す	Outlook, Look, Appearance, Condition, View
+願	がん	ねが.う, -ねがい	Petition, Request, Vow, Wish, Hope
+希	き, け	まれ	Hope, Beg, Request, Pray, Beseech, Greece, Dilute (acid), Rare, Few, Phenomenal
+季	き		Seasons
+紀	き		Chronicle, Account, Narrative, History, Annals, Geologic Period
+喜	き	よろこ.ぶ, よろこ.ばす	Rejoice, Take Pleasure In
+旗	き	はた	National Flag, Banner, Standard
+器	き	うつわ	Utensil, Vessel, Receptacle, Implement, Instrument, Ability, Container, Tool, Set
+機	き	はた	Loom, Mechanism, Machine, Airplane, Opportunity, Potency, Efficacy, Occasion
+議	ぎ		Deliberation, Consultation, Debate, Consideration
+求	きゅう, ぐ	もと.める	Request, Want, Wish For, Require, Demand
+泣	きゅう	な.く	Cry, Weep, Moan
+救	きゅう	すく.う	Salvation, Save, Help, Rescue, Reclaim
+給	きゅう	たま.う, たも.う, -たま.え	Salary, Wage, Gift, Allow, Grant, Bestow On
+挙	きょ	あ.げる, あ.がる, こぞ.る	Raise, Plan, Project, Behavior, Actions
+漁	ぎょ, りょう	あさ.る	Fishing, Fishery
+共	きょう	とも, とも.に, -ども	Together, Both, Neither, All, And, Alike, With
+協	きょう		Co-, Cooperation
+鏡	きょう, けい	かがみ	Mirror, Speculum, Barrel-head, Round Rice-cake Offering
+競	きょう, けい	きそ.う, せ.る, くら.べる	Emulate, Compete With, Bid, Sell At Auction, Bout, Contest, Race
+極	きょく, ごく	きわ.める, きわ.まる, きわ.まり, きわ.み, き.める, -ぎ.め, き.まる	Poles, Settlement, Conclusion, End, Highest Rank, Electric Poles, Very, Extremely, Most, Highly, 10**48
+訓	くん, きん	おし.える, よ.む, くん.ずる	Instruction, Japanese Character Reading, Explanation, Read
+軍	ぐん	いくさ	Army, Force, Troops, War, Battle
+郡	ぐん	こおり	County, District
+径	けい	みち, こみち, さしわたし, ただちに	Diameter, Path, Method
+型	けい	かた, -がた	Mould, Type, Model
+景	けい		Scenery, View
+芸	げい, うん	う.える, のり, わざ	Technique, Art, Craft, Performance, Acting, Trick, Stunt
+欠	けつ, けん	か.ける, か.く	Lack, Gap, Fail, Yawning Radical (no. 76)
+結	けつ, けち	むす.ぶ, ゆ.う, ゆ.わえる	Tie, Bind, Contract, Join, Organize, Do Up Hair, Fasten
+建	けん, こん	た.てる, た.て, -だ.て, た.つ	Build
+健	けん	すこ.やか	Healthy, Health, Strength, Persistence
+験	けん, げん	あかし, しるし, ため.す, ためし	Verification, Effect, Testing
+固	こ	かた.める, かた.まる, かた.まり, かた.い	Harden, Set, Clot, Curdle
+功	こう, く	いさお	Achievement, Merits, Success, Honor, Credit
+好	こう	この.む, す.く, よ.い, い.い	Fond, Pleasing, Like Something
+候	こう	そうろう	Climate, Season, Weather, Wait For, Expect
+航	こう		Navigate, Sail, Cruise, Fly
+康	こう		Ease, Peace
+告	こく	つ.げる	Revelation, Tell, Inform, Announce
+差	さ	さ.す, さ.し	Distinction, Difference, Variation, Discrepancy, Margin, Balance
+菜	さい	な	Vegetable, Side Dish, Greens
+最	さい, しゅ	もっと.も, つま	Utmost, Most, Extreme
+材	ざい		Lumber, Log, Timber, Wood, Materials, Ingredients, Talent
+昨	さく		Yesterday, Previous
+札	さつ	ふだ	Tag, Paper Money, Counter For Bonds, Placard, Bid
+刷	さつ	す.る, -ず.り, -ずり, は.く	Printing, Print, Brush
+殺	さつ, さい, せつ	ころ.す, -ごろ.し, そ.ぐ	Kill, Murder, Butcher, Slice Off, Split, Diminish, Reduce, Spoil
+察	さつ		Guess, Presume, Surmise, Judge, Understand
+参	さん, しん	まい.る, まい-, まじわる, みつ	Nonplussed, Three (in Documents), Going, Coming, Visiting, Visit, Be Defeated, Die, Be Madly In Love, Participate, Take Part In
+産	さん	う.む, う.まれる, うぶ-, む.す	Products, Bear, Give Birth, Yield, Childbirth, Native, Property
+散	さん	ち.る, ち.らす, -ち.らす, ち.らかす, ち.らかる, ち.らばる, ばら, ばら.ける	Scatter, Disperse, Spend, Squander
+残	ざん, さん	のこ.る, のこ.す, そこな.う, のこ.り	Remainder, Leftover, Balance
+士	し	さむらい	Gentleman, Scholar, Samurai, Samurai Radical (no. 33)
+氏	し	うじ, -うじ	Family Name, Surname, Clan
+史	し		History, Chronicle
+司	し	つかさど.る	Director, Official, Govt Office, Rule, Administer
+試	し	こころ.みる, ため.す	Test, Try, Attempt, Experiment, Ordeal
+児	じ, に, げい	こ, -こ, -っこ	Newborn Babe, Child, Young Of Animals
+治	じ, ち	おさ.める, おさ.まる, なお.る, なお.す	Reign, Be At Peace, Calm Down, Subdue, Quell, Govt, Cure, Heal, Rule, Conserve
+辞	じ	や.める, いな.む	Resign, Word, Term, Expression
+失	しつ	うしな.う, う.せる	Lose, Error, Fault, Disadvantage, Loss
+借	しゃく	か.りる	Borrow, Rent
+種	しゅ	たね, -ぐさ	Species, Kind, Class, Variety, Seed
+周	しゅう	まわ.り	Circumference, Circuit, Lap
+祝	しゅく, しゅう	いわ.う	Celebrate, Congratulate
+順	じゅん		Obey, Order, Turn, Right, Docility, Occasion
+初	しょ	はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め	First Time, Beginning
+松	しょう	まつ	Pine Tree
+笑	しょう	わら.う, え.む	Laugh
+唱	しょう	とな.える	Chant, Recite, Call Upon, Yell
+焼	しょう	や.く, や.き, や.き-, -や.き, や.ける	Bake, Burning
+象	しょう, ぞう	かたど.る	Elephant, Pattern After, Imitate, Image, Shape, Sign (of The Times)
+照	しょう	て.る, て.らす, て.れる	Illuminate, Shine, Compare, Bashful
+賞	しょう	ほ.める	Prize, Reward, Praise
+臣	しん, じん		Retainer, Subject
+信	しん		Faith, Truth, Fidelity, Trust
+成	せい, じょう	な.る, な.す, -な.す	Turn Into, Become, Get, Grow, Elapse, Reach
+省	せい, しょう	かえり.みる, はぶ.く	Focus, Government Ministry, Conserve
+清	せい, しょう, しん	きよ.い, きよ.まる, きよ.める	Pure, Purify, Cleanse, Exorcise, Manchu Dynasty
+静	せい, じょう	しず-, しず.か, しず.まる, しず.める	Quiet
+席	せき	むしろ	Seat, Mat, Occasion, Place
+積	せき	つ.む, -づ.み, つ.もる, つ.もり	Volume, Product (x*y), Acreage, Contents, Pile Up, Stack, Load, Amass
+折	せつ, しゃく	お.る, おり, お.り, -お.り, お.れる	Fold, Break, Fracture, Bend, Yield, Submit
+節	せつ, せち	ふし, -ぶし, のっと	Node, Season, Period, Occasion, Verse, Clause, Stanza, Honor, Joint, Knuckle, Knob, Knot, Tune, Melody
+説	せつ, ぜい	と.く	Opinion, Theory, Explanation, Rumor
+浅	せん	あさ.い	Shallow, Superficial, Frivolous, Wretched, Shameful
+戦	せん	いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く	War, Battle, Match
+選	せん	えら.ぶ	Elect, Select, Choose, Prefer
+然	ぜん, ねん	しか, しか.り, しか.し, さ	Sort Of Thing, So, If So, In That Case, Well
+争	そう	あらそ.う, いか.でか	Contend, Dispute, Argue
+倉	そう	くら	Godown, Warehouse, Storehouse, Cellar, Treasury
+巣	そう	す, す.くう	Nest, Rookery, Hive, Cobweb, Den
+束	そく	たば, たば.ねる, つか, つか.ねる	Bundle, Sheaf, Ream, Tie In Bundles, Govern, Manage, Control
+側	そく	かわ, がわ, そば	Side, Lean, Oppose, Regret
+続	ぞく, しょく, こう, きょう	つづ.く, つづ.ける, つぐ.ない	Continue, Series, Sequel
+卒	そつ, しゅつ	そっ.する, お.える, お.わる, ついに, にわか	Graduate, Soldier, Private, Die
+孫	そん	まご	Grandchild, Descendants
+帯	たい	お.びる, おび	Sash, Belt, Obi, Zone, Region
+隊	たい		Regiment, Party, Company, Squad
+達	たつ, だ	-たち	Accomplished, Reach, Arrive, Attain
+単	たん	ひとえ	Simple, One, Single, Merely
+置	ち	お.く, -お.き	Placement, Put, Set, Deposit, Leave Behind, Keep, Employ, Pawn
+仲	ちゅう	なか	Go-between, Relationship
+貯	ちょ	た.める, たくわ.える	Savings, Store, Lay In, Keep, Wear Mustache
+兆	ちょう	きざ.す, きざ.し	Portent, 10**12, Trillion, Sign, Omen, Symptoms
+腸	ちょう	はらわた, わた	Intestines, Guts, Bowels, Viscera
+低	てい	ひく.い, ひく.める, ひく.まる	Lower, Short, Humble
+底	てい	そこ	Bottom, Sole, Depth, Bottom Price, Base, Kind, Sort
+停	てい	と.める, と.まる	Halt, Stopping
+的	てき	まと	Bull's Eye, Mark, Target, Object, Adjective Ending
+典	てん, でん		Code, Ceremony, Law, Rule
+伝	でん, てん	つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて	Transmit, Go Along, Walk Along, Follow, Report, Communicate, Legend, Tradition
+徒	と	いたずら, あだ	On Foot, Junior, Emptiness, Vanity, Futility, Uselessness, Ephemeral Thing, Gang, Set, Party, People
+努	ど	つと.める	Toil, Diligent, As Much As Possible
+灯	とう	ひ, ほ-, ともしび, とも.す, あかり	Lamp, A Light, Light, Counter For Lights
+堂	どう		Public Chamber, Hall
+働	どう	はたら.く	Work, (kokuji)
+特	とく		Special
+得	とく	え.る, う.る	Gain, Get, Find, Earn, Acquire, Can, May, Able To, Profit, Advantage, Benefit
+毒	どく		Poison, Virus, Venom, Germ, Harm, Injury, Spite
+熱	ねつ	あつ.い	Heat, Temperature, Fever, Mania, Passion
+念	ねん		Wish, Sense, Idea, Thought, Feeling, Desire, Attention
+敗	はい	やぶ.れる	Failure, Defeat, Reversal
+梅	ばい	うめ	Plum
+博	はく, ばく		Dr., Command, Esteem, Win Acclaim, Ph.d., Exposition, Fair
+飯	はん	めし	Meal, Boiled Rice
+飛	ひ	と.ぶ, と.ばす, -と.ばす	Fly, Skip (pages), Scatter
+費	ひ	つい.やす, つい.える	Expense, Cost, Spend, Consume, Waste
+必	ひつ	かなら.ず	Invariably, Certain, Inevitable
+票	ひょう		Ballot, Label, Ticket, Sign
+標	ひょう	しるべ, しるし	Signpost, Seal, Mark, Stamp, Imprint, Symbol, Emblem, Trademark, Evidence, Souvenir, Target
+不	ふ, ぶ		Negative, Non-, Bad, Ugly, Clumsy
+夫	ふ, ふう, ぶ	おっと, それ	Husband, Man
+付	ふ	つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき	Adhere, Attach, Refer To, Append
+府	ふ		Borough, Urban Prefecture, Govt Office, Representative Body, Storehouse
+副	ふく		Vice-, Assistant, Aide, Duplicate, Copy
+粉	ふん	デシメートル, こ, こな	Flour, Powder, Dust
+兵	へい, ひょう	つわもの	Soldier, Private, Troops, Army, Warfare, Strategy, Tactics
+別	べつ	わか.れる, わ.ける	Separate, Branch Off, Diverge, Fork, Another, Extra, Specially
+辺	へん	あた.り, ほと.り, -べ	Environs, Boundary, Border, Vicinity
+変	へん	か.わる, か.わり, か.える	Unusual, Change, Strange
+便	べん, びん	たよ.り	Convenience, Facility, Excrement, Feces, Letter, Chance
+包	ほう	つつ.む, くる.む	Wrap, Pack Up, Cover, Conceal
+法	ほう, はっ, ほっ, ふらん	のり	Method, Law, Rule, Principle, Model, System
+望	ぼう, もう	のぞ.む, もち	Ambition, Full Moon, Hope, Desire, Aspire To, Expect
+牧	ぼく	まき	Breed, Care For, Shepherd, Feed, Pasture
+末	まつ, ばつ	すえ	End, Close, Tip, Powder, Posterity
+満	まん, ばん	み.ちる, み.つ, み.たす	Full, Fullness, Enough, Satisfy
+未	み, び	いま.だ, ま.だ, ひつじ	Un-, Not Yet, Hitherto, Still, Even Now, Sign Of The Ram, 1-3pm, Eighth Sign Of Chinese Zodiac
+脈	みゃく	すじ	Vein, Pulse, Hope
+民	みん	たみ	People, Nation, Subjects
+無	む, ぶ	な.い	Nothingness, None, Ain't, Nothing, Nil, Not
+約	やく	つづ.まる, つづ.める, つづま.やか	Promise, Approximately, Shrink
+勇	ゆう	いさ.む	Courage, Cheer Up, Be In High Spirits, Bravery, Heroism
+要	よう	い.る, かなめ	Need, Main Point, Essence, Pivot, Key To
+養	よう, りょう	やしな.う	Foster, Bring Up, Rear, Develop, Nurture
+浴	よく	あ.びる, あ.びせる	Bathe, Be Favored With, Bask In
+利	り	き.く	Profit, Advantage, Benefit
+陸	りく, ろく	おか	Land, Six
+良	りょう	よ.い, -よ.い, い.い, -い.い	Good, Pleasing, Skilled
+料	りょう		Fee, Materials
+量	りょう	はか.る	Quantity, Measure, Weight, Amount, Consider, Estimate, Surmise
+輪	りん	わ	Wheel, Ring, Circle, Link, Loop, Counter For Wheels And Flowers
+類	るい	たぐ.い	Sort, Kind, Variety, Class, Genus
+令	れい		Orders, Ancient Laws, Command, Decree
+冷	れい	つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます	Cool, Cold (beer, Person), Chill
+例	れい	たと.える	Example, Custom, Usage, Precedent
+歴	れき, れっき		Curriculum, Continuation, Passage Of Time
+連	れん	つら.なる, つら.ねる, つ.れる, -づ.れ	Take Along, Lead, Join, Connect, Party, Gang, Clique
+老	ろう	お.いる, ふ.ける	Old Man, Old Age, Grow Old
+労	ろう	ろう.する, いたわ.る, いた.ずき, ねぎら, つか.れる, ねぎら.う	Labor, Thank For, Reward For, Toil, Trouble
+録	ろく	しる.す, と.る	Record
