@@ -16,6 +16,7 @@
 - Night mode
 - Change size of characters
 - Change drawing stroke width
+- Characters listed at https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/koku/001.htm 
 - Indicator at bottom for showing if character loaded or not (green - loaded, red - not loaded or some error)
 
 Note: Some changes will get reflect from next card.
