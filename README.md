@@ -10,7 +10,7 @@
 
 **Download from GitHub**
 <br>Download lated deck from release page
-<br>[Release](/releases)
+<br>[Release](https://github.com/infinyte7/Write-Kanji/releases)
 
 # Features
 - Night mode
