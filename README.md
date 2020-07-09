@@ -21,6 +21,24 @@
 
 Note: Some changes will get reflect from next card.
 
+# Turn off default settings
+Open template editor.
+In ``` Back Template ``` at top will be following lines
+```html
+<script>
+    var default_show_kanji = true;
+    var default_show_onyomi = true;
+    var default_show_Kunyomi = true;
+    var default_show_outline = true;
+    var default_show_meaning = true;
+</script>
+```
+Change true to false for not showing the respective fields.
+For ex:- To stop by default showing Kanji at beginning of review.
+```javascript
+var default_show_kanji = false;
+```
+
  # Data
  Character's stroke data
  <br>https://github.com/chanind/hanzi-writer-data-jp
