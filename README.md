@@ -22,6 +22,12 @@
 Note: Some changes will get reflect from next card.
 
 # Turn off default settings
+If below lines not present in write kanji deck then deck can be update by two methos.
+1. Download latest deck from [release page.](https://github.com/infinyte7/Write-Kanji/releases)
+or
+2. Copy the [back.html](https://github.com/infinyte7/Write-Kanji/blob/master/Versions/Version%201.1/back.html) to Back Template of deck.
+View [this](https://github.com/infinyte7/Anki-xiehanzi/wiki/Update-xiehanzi-deck-on-AnkiDesktop) to copy [back.html](https://github.com/infinyte7/Write-Kanji/blob/master/Versions/Version%201.1/back.html) to existing deck.
+
 Open template editor.
 In ``` Back Template ``` at top will be following lines
 ```html
