@@ -16,6 +16,7 @@
 - Night mode
 - Change size of characters
 - Change drawing stroke width
+- Kanji with Onyomi, Kunyomi and Meaning in English.
 - Characters listed at https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/koku/001.htm 
 - Indicator at bottom for showing if character loaded or not (green - loaded, red - not loaded or some error)
 
@@ -65,6 +66,9 @@ var default_show_kanji = false;
 
 **Can I add my own words?**
 <br>Yes, See [Anki Manual](https://docs.ankiweb.net/#/editing?id=addingediting).
+
+# Add to existing deck
+![](https://github.com/infinyte7/Write-Kanji/blob/master/Images/add_to_existing_deck.gif)
 
 # View xiehanzi Wiki
 [Wiki](https://github.com/infinyte7/Anki-xiehanzi/wiki) 
