@@ -76,6 +76,8 @@ var default_show_kanji = false;
 # Bug, feature request or have any questions?
 https://github.com/infinyte7/Write-Kanji/issues
 
+<a href='https://ko-fi.com/L3L820U7D' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 # License
 **Write Kanji**
 MIT License<br>
