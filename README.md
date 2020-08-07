@@ -76,6 +76,10 @@ var default_show_kanji = false;
 # Bug, feature request or have any questions?
 https://github.com/infinyte7/Write-Kanji/issues
 
+# My other decks
+
+https://ankiweb.net/shared/byauthor/119943820
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L820U7D)
 
 # License
