@@ -80,8 +80,6 @@ https://github.com/infinyte7/Write-Kanji/issues
 
 https://ankiweb.net/shared/byauthor/119943820
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L820U7D)
-
 # License
 **Write Kanji**
 MIT License<br>
