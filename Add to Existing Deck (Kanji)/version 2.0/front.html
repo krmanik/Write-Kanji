@@ -1,29 +1,3 @@
-# Add writing component to existing deck
-
-Features
-- Support Kanji and Kana
-- Night mode
-- Character and grid height
-- Show and hide outline
-- Show stroke with animation
-- Skip to next character
-
-# Add to existing deck with Kanji
-
-1. Download zip files which contains necessary files<br>
-[Download - Add Kanji writer v2.0](https://github.com/infinyte7/Write-Kanji/releases/download/v2.0/Add.Kanji.writer.to.existing.deck.version.2.0.zip)
-
-```
-_hanzi_writer_style.css
-_hanzi_writer_xiehanzi_kanji.js
-_Material-Icons.woff2
-```
-
-2. Extract zip file and copy all three files to `Anki/User 1/collection.media` folder
-
-3. Open card template editor or note editor for current deck and add the following to back or front side of card template.
-
-```html
 <div id='ch_kanji' class="text-color4">{{Expression}}</div>
 <div id="character-target-div"></div>
 <div id="bottom-Button"></div>
@@ -57,12 +31,3 @@ _Material-Icons.woff2
         }
     })();
 </script>
-```
-
-4. Add following to Styling of card template.
-```css
-@import "_hanzi_writer_style.css";
-```
-
-
-
