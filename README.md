@@ -68,7 +68,8 @@ var default_show_kanji = false;
 <br>Yes, See [Anki Manual](https://docs.ankiweb.net/#/editing?id=addingediting).
 
 # Add to existing deck
-[Watch demo video to add writing component to exisitng deck](https://youtu.be/_dZeREl1TI8)
+- [Watch demo video to add writing component to exisitng deck](https://youtu.be/_dZeREl1TI8)
+- [View Readme.md](https://github.com/infinyte7/Write-Kanji/tree/master/Add%20to%20Existing%20Deck%20(Kanji)/version%202.0)
 
 # View xiehanzi Wiki
 [Wiki](https://github.com/infinyte7/Anki-xiehanzi/wiki) 
