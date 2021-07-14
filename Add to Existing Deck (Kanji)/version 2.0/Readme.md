@@ -23,7 +23,7 @@ _Material-Icons.woff2
 
 3. Open card template editor or note editor for current deck and add the following to back or front side of card template.
 ```html
-<div id='ch_kanji' class="text-color4">{{Kanji}}</div>   <!-- change this line from {{Kanji}} the you deck's fields-->
+<div id='ch_kanji' class="text-color4">{{Kanji}}</div>   <!-- change this line from Kanji the you deck's fields-->
 <div id="character-target-div"></div>
 <div id="bottom-Button"></div>
 
@@ -36,4 +36,9 @@ var strokeWidth = 10;        // default brush size
 var url_hanzi = "https://cdn.jsdelivr.net/gh/infinyte7/hanzi-writer-data-jp@master/data/";
 //var url_hanzi = "http://127.0.0.1:8080/data/";
 </script>
+```
+
+4. Add following to Styling of card template.
+```css
+@import "_hanzi_writer_style.css";
 ```
