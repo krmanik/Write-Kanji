@@ -23,7 +23,9 @@ _Material-Icons.woff2
 
 3. Open card template editor or note editor for current deck and add the following to back or front side of card template.
 
-Note: Change `{{Expression}}` to fields in your Anki Kanji decks
+Note: 1. Change `{{Expression}}` to fields in your Anki Kanji decks<br>
+      2. **To hide the add this to the div of Expression**, `style="display:none;"`<br>
+      `<div id='ch_kanji' class="text-color4" style="display:hidden">{{Expression}}</div>`
 
 ```html
 <div id='ch_kanji' class="text-color4">{{Expression}}</div>
