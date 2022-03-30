@@ -49,13 +49,13 @@ https://github.com/google/material-design-icons
 
 # xiehanzi
 MIT License<br>
-Copyright (c) 2020 infinyte7
-<br>https://github.com/infinyte7/Anki-xiehanzi
+Copyright (c) 2020 krmanik
+<br>https://github.com/krmanik/Anki-xiehanzi
 
 # Write Kanji
 MIT License
 
-Copyright (c) 2020 infinyte7
+Copyright (c) 2020 krmanik
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

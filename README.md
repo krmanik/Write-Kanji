@@ -10,7 +10,7 @@
 
 **Download from GitHub**
 <br>Download lated deck from release page
-<br>[Release](https://github.com/infinyte7/Write-Kanji/releases)
+<br>[Release](https://github.com/krmanik/Write-Kanji/releases)
 
 # Features
 - Night mode
@@ -24,10 +24,10 @@ Note: Some changes will get reflect from next card.
 
 # Turn off default settings
 If below lines not present in write kanji deck then deck can be updated by two methods.
-1. Download latest deck from [release page.](https://github.com/infinyte7/Write-Kanji/releases)
+1. Download latest deck from [release page.](https://github.com/krmanik/Write-Kanji/releases)
 or
-2. Copy the [back.html](https://github.com/infinyte7/Write-Kanji/blob/master/Versions/Version%201.1/back.html) to Back Template of deck.
-View [this](https://github.com/infinyte7/Anki-xiehanzi/wiki/Update-xiehanzi-deck-on-AnkiDesktop) to copy [back.html](https://github.com/infinyte7/Write-Kanji/blob/master/Versions/Version%201.1/back.html) to existing deck.
+2. Copy the [back.html](https://github.com/krmanik/Write-Kanji/blob/master/Versions/Version%201.1/back.html) to Back Template of deck.
+View [this](https://github.com/krmanik/Anki-xiehanzi/wiki/Update-xiehanzi-deck-on-AnkiDesktop) to copy [back.html](https://github.com/krmanik/Write-Kanji/blob/master/Versions/Version%201.1/back.html) to existing deck.
 
 Now,
 Open template editor.
@@ -69,13 +69,13 @@ var default_show_kanji = false;
 
 # Add to existing deck
 - [Watch demo video to add writing component to exisitng deck](https://youtu.be/_dZeREl1TI8)
-- [View Readme.md](https://github.com/infinyte7/Write-Kanji/tree/master/Add%20to%20Existing%20Deck%20(Kanji)/version%202.0)
+- [View Readme.md](https://github.com/krmanik/Write-Kanji/tree/master/Add%20to%20Existing%20Deck%20(Kanji)/version%202.0)
 
 # View xiehanzi Wiki
-[Wiki](https://github.com/infinyte7/Anki-xiehanzi/wiki) 
+[Wiki](https://github.com/krmanik/Anki-xiehanzi/wiki) 
 
 # Bug, feature request or have any questions?
-https://github.com/infinyte7/Write-Kanji/issues
+https://github.com/krmanik/Write-Kanji/issues
 
 # My other decks
 
@@ -84,7 +84,7 @@ https://ankiweb.net/shared/byauthor/119943820
 # License
 **Write Kanji**
 MIT License<br>
-Copyright (c) 2020 infinyte7
+Copyright (c) 2020 krmanik
 
 ### Other Third party licenses
 Read [License](License)

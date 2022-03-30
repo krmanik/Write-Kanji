@@ -11,7 +11,7 @@ Features
 # Add to existing deck with Kanji
 
 1. Download zip files which contains necessary files<br>
-[Download - Add Kanji writer v2.0](https://github.com/infinyte7/Write-Kanji/releases/download/v2.0/Add.Kanji.writer.to.existing.deck.version.2.0.zip)
+[Download - Add Kanji writer v2.0](https://github.com/krmanik/Write-Kanji/releases/download/v2.0/Add.Kanji.writer.to.existing.deck.version.2.0.zip)
 
 ```
 _hanzi_writer_style.css
@@ -37,7 +37,7 @@ Note: 1. Change `{{Expression}}` to fields in your Anki Kanji decks<br>
     var charHW = 70;             // default grid size on screen on scale of 0-100
     var strokeWidth = 10;        // default brush size
 
-    var url_hanzi = "https://cdn.jsdelivr.net/gh/infinyte7/hanzi-writer-data-jp@master/data/";
+    var url_hanzi = "https://cdn.jsdelivr.net/gh/krmanik/hanzi-writer-data-jp@master/data/";
     // var url_hanzi = "http://127.0.0.1:8080/data/";
 </script>
 
