@@ -8,11 +8,6 @@ document.getElementById("bottom-Button").innerHTML = colors_used1;
 var bottom_Button = `
 <div id="ch_load_status" style="color:#ea2322;">&#8226;</div>
 <div class="modal-footer1">
-    <a class="btn" id='btnShowMenu'>
-        <div class="icon">
-            <i class="material-icons">menu</i>
-        </div>
-    </a>
     <a class="btn" id='btnShowHideOutline'>
     <div class="icon">
         <i class="material-icons">gesture</i>
@@ -28,11 +23,13 @@ var bottom_Button = `
             <i class="material-icons">navigate_next</i>
         </div>
     </a>
+    <a class="btn" id='btnReloadQuiz'>
+        <div class="icon">
+            <i class="material-icons">replay</i>
+        </div>
+    </a>
 </div>`;
 document.getElementById("bottom-Button").innerHTML += bottom_Button;
-
-
-
 
 
 //do not modify it
@@ -74,11 +71,17 @@ if (char_height >= char_width) {
     char_width = char_height;
 }
 
-var grid_data = "<svg xmlns='http://www.w3.org/2000/svg' width='100%' height='100%' class='grid-color'  id='grid-background-target'> <line x1='0' y1='0' x2='100%' y2='100%' stroke='#DDD' /><line x1='100%' y1='0' x2='0' y2='100%' stroke='#DDD' /><line x1='50%' y1='0' x2='50%' y2='100%' stroke='#DDD' /><line x1='0' y1='50%' x2='100%' y2='50%' stroke='#DDD' /></svg>";
+var characters = document.getElementById("ch_kanji").innerText;
 
-var characters = document.getElementById('ch_kanji').innerHTML;
+var stroke = "var(--surface1)";
 
-(async function () { // <-- add this wrapper
+var grid_data = `<svg xmlns='http://www.w3.org/2000/svg' width='100%' height='100%' class='grid-color'  id='grid-background-target'><g id="char_grid"><line x1='0' y1='0' x2='100%' y2='100%' stroke='${stroke}' /><line x1='100%' y1='0' x2='0' y2='100%' stroke='${stroke}' /><line x1='50%' y1='0' x2='50%' y2='100%' stroke='${stroke}' /><line x1='0' y1='50%' x2='100%' y2='50%' stroke='${stroke}' /></g></svg>`;
+
+async function generateHanziOnFinishQuiz() {
+    document.getElementById("ch_load_status").innerHTML = "&#8226;";
+    document.getElementById("ch_load_status").style.marginTop = "-30px";
+    document.getElementById("ch_load_status").style.display = "block";
+
     var chars = characters;
     for (i = 0; i < chars.length; i++) {
 
@@ -88,15 +91,23 @@ var characters = document.getElementById('ch_kanji').innerHTML;
         await writeFunction(chars[i]); document.getElementById('grid-background-target').innerHTML = "";
         draw_grid.innerHTML = grid_data;
         if (i == chars.length - 1) {
-            document.getElementById("ch_kanji").style.opacity = "1";
             document.getElementById('grid-background-target').innerHTML = "";
             draw_grid.innerHTML = "";
             document.getElementById("btnGoNextCard").style.display = "none";
             document.getElementById("btnRevealChar").style.display = "none";
             document.getElementById("ch_load_status").innerHTML = "";
+            document.getElementById("ch_load_status").style.marginTop = "0px";
         }
     }
-})(); // execute immediately
+}
+
+generateHanziOnFinishQuiz();
+
+document.getElementById("btnReloadQuiz").onclick = function () {
+    document.getElementById("btnGoNextCard").style.display = "unset";
+    document.getElementById("btnRevealChar").style.display = "unset";
+    generateHanziOnFinishQuiz();
+};
 
 // Make the function async, so it returns a promise
 async function writeFunction(c) {
@@ -154,6 +165,7 @@ async function writeFunction(c) {
                 }
             }
         };
+
         writer.quiz({
             onMistake: function (strokeData) {
             },

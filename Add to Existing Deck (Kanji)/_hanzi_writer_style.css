@@ -1,0 +1,161 @@
+:root {
+    --tone-1: #f44336;
+    --tone-2: #ff9800;
+    --tone-3: #4caf50;
+    --tone-4: #2196f3;
+    --tone-5: #607d8b;
+    --brand-bg1: rgb(255, 117, 195);
+    --brand-bg2: rgb(157, 119, 255);
+    --brand-bg-gradient: linear-gradient(to bottom,
+            var(--brand-bg2),
+            var(--brand-bg2));
+    --thumb-highlight-color: rgba(255, 255, 254, 0.2);
+    --space-xxs: 0.25rem;
+    --space-xs: 0.5rem;
+    --space-sm: 1rem;
+    --space-md: 1.5rem;
+    --space-lg: 2rem;
+    --space-xl: 3rem;
+    --space-xxl: 6rem;
+    --isLTR: 1;
+    --isRTL: -1;
+}
+
+.card {
+    --title-color: grey;
+    --time-left-color: teal;
+    --hanzi-grid: #fafafa;
+    --stroke: #555;
+    --outline: #ddd;
+    --drawing: #333;
+    --pinyin-color: #ef6c00;
+    --simplified-color: #6495ed;
+    --traditional-color: #00796b;
+    --meaning-color: #607d8b;
+    --icon-button-background: #63759d;
+    --icon-button-background-focus: #7d92c2;
+    --sidebar-color: white;
+    --sidebar-background-color: #52575d;
+    --header-color: #455a64;
+    --surface1: rgb(226, 226, 226);
+    --surface2: rgb(255, 255, 254);
+    --surface3: rgb(249, 249, 249);
+    --surface4: rgb(212, 212, 212);
+    --text1: rgb(48, 48, 48);
+    --text2: rgb(94, 94, 94);
+    --brand: rgb(47, 167, 214);
+    --thumb-highlight-color: rgba(0, 0, 0, 0.2);
+}
+
+.card.night_mode {
+    --header-color: white;
+    --title-color: #00bcd4;
+    --time-left-color: #fff;
+    --hanzi-grid: #262626;
+    --stroke: #ffffff;
+    --outline: #5b5b5b;
+    --drawing: #fff;
+    --pinyin-color: #27b46e;
+    --simplified-color: #6495ed;
+    --traditional-color: #fba910;
+    --meaning-color: #00bfa5;
+    --icon-button-background: #63759d;
+    --icon-button-background-focus: #7d92c2;
+    --sidebar-color: white;
+    --sidebar-background-color: #52575d;
+    --surface1: rgb(27, 27, 27);
+    --surface2: rgb(37, 37, 37);
+    --surface3: rgb(48, 48, 48);
+    --surface4: rgb(59, 59, 59);
+    --text1: rgb(240, 240, 240);
+    --text2: rgb(184, 184, 184);
+    --brand: rgb(118, 161, 184);
+}
+
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    /* src: url(https://fonts.gstatic.com/s/materialicons/v47/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format('woff2');
+  */
+    src: local('Material Icons'), local('MaterialIcons-Regular'), url(_Material-Icons.woff2),
+        url(https://fonts.gstatic.com/s/materialicons/v47/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format('woff2');
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+}
+
+.icon {
+    margin: 3px;
+    position: relative;
+    display: inline-block;
+    color: white;
+    background-color: var(--icon-button-background);
+    width: 2.0rem;
+    height: 2.0rem;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s ease;
+}
+
+.icon .material-icons {
+    font-size: 1.0rem;
+    position: absolute;
+    left: 0.5rem;
+    top: 0.5rem;
+    transition: all 0.3s ease;
+}
+
+.icon:hover,
+.icon:focus {
+    background-color: var(--icon-button-background-focus);
+}
+
+/* grid color for character */
+
+.grid-color {
+    margin: 10px;
+    background-color: var(--hanzi-grid);
+    padding: 2px;
+    -webkit-box-shadow: 0px 0px 10px -5px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 0px 10px -5px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 10px -5px rgba(0, 0, 0, 0.5);
+}
+
+.stroke-color {
+    color: var(--stroke);
+}
+
+.outline-color {
+    color: var(--outline);
+}
+
+.drawing-color {
+    color: var(--drawing);
+}
+
+/* bottom button */
+
+.modal-footer1 {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.modal-footer1 a {
+    display: inline-block;
+    margin: 0 8px;
+    float: none;
+}

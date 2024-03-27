@@ -1,27 +1,33 @@
-<script>
-    var show_outline = true;
-    var charHW = 70;
-    var strokeWidth = 10;
+<div id='ch_kanji' class="text-color4">{{Expression}}</div>
+<div id="character-target-div"></div>
+<div id="bottom-Button"></div>
 
-    var url_hanzi = "https://cdn.jsdelivr.net/npm/hanzi-writer-data-jp@latest/";
-    //var url_hanzi = "http://127.0.0.1:8080/data/";
+<script>
+    var show_outline = true;     // default show outline, put false for hiding
+    var charHW = 70;             // default grid size on screen on scale of 0-100
+    var strokeWidth = 10;        // default brush size
+
+    var url_hanzi = "https://cdn.jsdelivr.net/npm/kanji-writer-data-jp@latest/";
+    // var url_hanzi = "http://127.0.0.1:8080/data/";
 </script>
 
-<div id='ch_kanji' class="text-color4 ">{{Kanji}}</div>
-<div id="character-target-div"></div>
-<div id="ch_load_status" style="color:#ea2322;">&#8226;</div>
 
-<div class="modal-footer1">
-    <a class="btn" id='btnRevealChar'>
-        <div class="icon">
-            <i class="material-icons">gesture</i>
-        </div>
-    </a>
-    <a class="btn" id='btnGoNextCard'>
-        <div class="icon">
-            <i class="material-icons">navigate_next</i>
-        </div>
-    </a>
-</div>
+<script>
+    // https://forums.ankiweb.net/t/linking-to-external-javascript/1713/4
+    var injectScript = (src) => {
+        return new Promise((resolve, reject) => {
+            const script = document.createElement('script');
+            script.src = src;
+            script.async = true;
+            script.onload = resolve;
+            script.onerror = reject;
+            document.head.appendChild(script);
+        });
+    };
 
-<script src="_hanzi_writer_xiehanzi.js" type="text/javascript"></script>
+    (async () => {
+        if (typeof keyman === 'undefined') {
+            await injectScript('_hanzi_writer_xiehanzi_kanji.js');
+        }
+    })();
+</script>

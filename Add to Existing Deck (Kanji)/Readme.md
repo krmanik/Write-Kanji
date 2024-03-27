@@ -11,7 +11,7 @@ Features
 # Add to existing deck with Kanji
 
 1. Download zip files which contains necessary files<br>
-[Download - Add Kanji writer v2.0](https://github.com/krmanik/Write-Kanji/releases/download/v2.0/Add.Kanji.writer.to.existing.deck.version.2.0.zip)
+[Download - Add Kanji writer v2.1](https://raw.githubusercontent.com/krmanik/Write-Kanji/master/Add%20to%20Existing%20Deck%20(Kanji)/Add.Kanji.writer.to.existing.deck.version.2.1.zip)
 
 ```
 _hanzi_writer_style.css
@@ -23,7 +23,7 @@ _Material-Icons.woff2
 
 3. Open card template editor or note editor for current deck and add the following to back or front side of card template.
 
-Note: 1. Change `{{Expression}}` to fields in your Anki Kanji decks<br>
+**Note:** 1. Change `{{Expression}}` to fields in your Anki Kanji decks<br>
       2. **To hide the add this to the div of Expression**, `style="display:none;"`<br>
       `<div id='ch_kanji' class="text-color4" style="display:hidden">{{Expression}}</div>`
 
@@ -37,7 +37,7 @@ Note: 1. Change `{{Expression}}` to fields in your Anki Kanji decks<br>
     var charHW = 70;             // default grid size on screen on scale of 0-100
     var strokeWidth = 10;        // default brush size
 
-    var url_hanzi = "https://cdn.jsdelivr.net/gh/krmanik/hanzi-writer-data-jp@master/data/";
+    var url_hanzi = "https://cdn.jsdelivr.net/npm/kanji-writer-data-jp@latest/";
     // var url_hanzi = "http://127.0.0.1:8080/data/";
 </script>
 
@@ -67,6 +67,3 @@ Note: 1. Change `{{Expression}}` to fields in your Anki Kanji decks<br>
 ```css
 @import "_hanzi_writer_style.css";
 ```
-
-
-
